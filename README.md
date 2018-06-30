@@ -1,3 +1,3 @@
 # config-center
 
-spring-cloud注册中心
+spring-cloud配置中心
