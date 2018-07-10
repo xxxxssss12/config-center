@@ -1,8 +1,8 @@
 jedis:
-	pool:
-		maxActive: 20
-		maxIdle: 20
-		testOnReturn: true
-		testOnBorrow: true
-	ip: localhost
-	port: 6379
+    pool:
+        maxActive: 20
+        maxIdle: 20
+        testOnReturn: true
+        testOnBorrow: true
+    ip: localhost
+    port: 6379
