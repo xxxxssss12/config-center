@@ -4,5 +4,6 @@ jedis:
         maxIdle: 20
         testOnReturn: true
         testOnBorrow: true
+        timeout: 2000
     ip: localhost
     port: 6379
